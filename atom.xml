@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>David Ma</title>
+  
+  <subtitle>Travel | Data | Photography</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-04T10:05:11.987Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>David Ma</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/02/04/hello-world/"/>
+    <id>http://yoursite.com/2020/02/04/hello-world/</id>
+    <published>2020-02-04T12:48:22.299Z</published>
+    <updated>2020-02-04T10:05:11.987Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Title-2</title>
+    <link href="http://yoursite.com/2020/02/04/Title-2/"/>
+    <id>http://yoursite.com/2020/02/04/Title-2/</id>
+    <published>2020-02-04T10:16:42.000Z</published>
+    <updated>2020-02-04T10:16:42.091Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Title 1</title>
+    <link href="http://yoursite.com/2017/06/01/Title-1/"/>
+    <id>http://yoursite.com/2017/06/01/Title-1/</id>
+    <published>2017-06-02T01:56:56.000Z</published>
+    <updated>2020-02-04T10:17:55.035Z</updated>
+    
+    <summary type="html">
+    
+      Enter intro here to display on home page
+    
+    </summary>
+    
+    
+    
+      <category term="tag1" scheme="http://yoursite.com/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://yoursite.com/tags/tag2/"/>
+    
+  </entry>
+  
+</feed>
